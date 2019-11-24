@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"test","l":"FileClient"},{"p":"test","l":"FileServer"},{"p":"test","l":"Handler"},{"l":"所有类","url":"allclasses-index.html"}]
